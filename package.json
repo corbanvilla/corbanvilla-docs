@@ -96,6 +96,7 @@
     "unist-util-visit": "^5.0.0",
     "vfile": "^6.0.3",
     "workerpool": "^9.2.0",
+    "wrangler": "4.3.0",
     "ws": "^8.18.1",
     "yargs": "^17.7.2"
   },
